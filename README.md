@@ -12,4 +12,4 @@ Project 2:第一人称射击游戏
   2. 射击并与靶（墙）碰撞形成物理反弹
   3. 摄像机追随子弹发射方向录制
   
-mp4 ： 
+mp4 ： 链接: https://pan.baidu.com/s/1SWGk8hTvh6hy45y5Fkvy9g  密码: 8rbc
